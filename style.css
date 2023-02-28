@@ -1,0 +1,124 @@
+body{
+	background-color: #2F58CD;
+	color: black;
+	font-family: Manrope;
+	font-size: 20px;
+	font-weight: 500;
+	letter-spacing: 0.1px;
+	text-align: justify;
+}
+
+h1{
+	color: #E90064;
+	font-size: 50px;
+	font-family: Work Sans;
+
+}
+
+h2, h3, h4 {
+
+	color: #537FE7;
+	font-family: Quicksand;
+	font-size: 24px;
+}
+
+a{
+
+	text-decoration: none;
+	color: #1C82AD ;
+	font-weight: bold;
+}
+
+a:hover{
+	color: blue;
+}
+
+a{
+	font-size: 40px
+}
+
+#PP{
+	width: 300px;
+	border-radius: 10%;
+	box-shadow: 5px 5px 3px rgb(130,130,130);
+
+}
+
+
+
+div{
+	width: 900px;
+	margin: 20px auto;
+	text-align: center;
+	
+}
+
+@media(max-width: 800px){
+	div{
+		width: 400px;
+	}
+
+}
+
+
+@media (max-width: 500px) {
+	#PP{
+	width: 100px;
+	}
+	div{ 
+		width:200px;
+		#
+		}
+
+
+
+
+
+}
+
+#b2{
+	background: white;                          
+	margin: 40px auto;                           
+	border-radius: 4px;                        
+	box-shadow: 0 10px 30px #C0EEF2;
+
+}
+
+#b3{
+	background: white;                          
+	margin: 40px auto;                           
+	border-radius: 4px;                        
+	box-shadow: 0 10px 30px #C0EEF2;
+
+}
+
+#b4{
+	background: white;                          
+	margin: 40px auto;                           
+	border-radius: 4px;                        
+	box-shadow: 0 10px 30px #C0EEF2;
+
+}
+
+#b5{
+	background: white;                          
+	margin: 40px auto;                           
+	border-radius: 4px;                        
+	box-shadow: 0 10px 30px #C0EEF2;
+
+}
+
+
+#b6{
+	background: white;                          
+	margin: 40px auto;                           
+	border-radius: 4px;                        
+	box-shadow: 0 10px 30px #C0EEF2;
+
+}
+
+
+
+
+
+
